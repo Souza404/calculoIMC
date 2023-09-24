@@ -20,6 +20,6 @@ function returnClassification(peso, altura){
 function calcIMC(){
   const peso = document.getElementById('peso').value;
   const altura = document.getElementById('altura').value;
-  const result = returnClassificatio(peso, altura);
+  const result = returnClassification(peso, altura);
   alert(result);
 }
