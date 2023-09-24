@@ -1,0 +1,3 @@
+Calculadora de IMC 
+
+Projeto básico com o intuito de colocar em prática conhecimentos em HTML, JavaScript e Booststrap.
